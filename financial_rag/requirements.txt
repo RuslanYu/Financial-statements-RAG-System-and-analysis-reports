@@ -1,0 +1,17 @@
+# Core runtime dependencies (adjust versions as needed)
+pdfplumber
+pdf2image
+pytesseract
+langchain
+sentence-transformers
+faiss-cpu
+scikit-learn
+pandas
+numpy
+scipy
+matplotlib
+click
+rich
+tk
+PyYAML
+pytest

@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# Data and caches
+data/
+logs/
+*.sqlite
+*.db
+*.db-shm
+*.db-wal
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment and secrets
+.env

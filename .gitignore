@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+dist/
+build/
+*.egg-info/
+rag_store/
+data/processed/
+data/outputs/

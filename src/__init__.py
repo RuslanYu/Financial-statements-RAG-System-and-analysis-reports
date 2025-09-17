@@ -1,0 +1,1 @@
+"""Main package for Financial Statements RAG System.\n\n__version__ = '0.1.0'"""

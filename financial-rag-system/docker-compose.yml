@@ -1,0 +1,10 @@
+services:
+  app:
+    build: ./deployment/docker
+    volumes:
+      - ./:/app
+    working_dir: /app/financial-rag-system
+    ports:
+      - '8000:8000'
+    environment:
+      - PDF_DIR=/app/financial-rag-system/data/raw/samples

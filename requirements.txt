@@ -7,3 +7,8 @@ sentence-transformers
 langdetect
 cohere
 python-dotenv
+llama-parse
+pymupdf
+camelot-py[base]
+tabula-py
+pandas

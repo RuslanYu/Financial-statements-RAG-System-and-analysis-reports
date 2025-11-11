@@ -1,9 +1,0 @@
-name: CD
-on:
-  push:
-    branches: [main]
-jobs:
-  noop:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo 'Deploy step placeholder'

@@ -1,19 +1,5 @@
-# local virtual envs
-.venv/
-venv/
-env/
-
-# junk
-__pycache__/
+﻿__pycache__/
 *.pyc
-*.log
-.DS_Store
-Thumbs.db
-
-# editors
-.vscode/
-.idea/
-
-# local artifacts (dup-safe with subfolder ignores)
-financial-rag-system/data/processed/
-financial-rag-system/data/outputs/
+.env
+data/processed/
+!data/processed/json_lake/.gitkeep

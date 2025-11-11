@@ -1,0 +1,9 @@
+﻿fastapi
+uvicorn
+pydantic
+llama-index
+weaviate-client
+sentence-transformers
+langdetect
+cohere
+python-dotenv
